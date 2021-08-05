@@ -24,4 +24,4 @@ To better understand the structure of files in the directory:
             
 > 4. (IPs)\_syn_netlist: This files contains the synthesised netlist of the IPs.
 
-> ***/*Some folders contain .zip file to accomodate the space.***
+> ****Some folders contain .zip file to accomodate the space.***
