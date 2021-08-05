@@ -7,7 +7,7 @@ https://github.com/lnis-uofu/OpenFPGA
 
 For further detail and results, one can refer to paper provided below:
 
-Exploring eFPGA-based Redaction for IP Protection
+##Exploring eFPGA-based Redaction for IP Protection
 
 The directory contains the IPs that are mentioned in Table V and Table VI of the above mentioned paper.
 
