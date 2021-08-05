@@ -23,3 +23,5 @@ To better understand the structure of files in the directory:
             that correspond to the fabric used in place of the redacted module.
             
 > 4. (IPs)\_syn_netlist: This files contains the synthesised netlist of the IPs.
+
+> ***Some folders contain .zip file to accomodate the space.***
