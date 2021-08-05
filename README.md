@@ -11,7 +11,7 @@ For further detail and results, one can refer to paper provided below:
 
 The directory contains the IPs that are mentioned in Table V and Table VI of the above mentioned paper.
 
-To better understand the files in the directory:
+To better understand the structure of files in the directory:
 
 > 1. SDC/SRC: These two subfolders contains the netlists and SDC generated using OpenFPGA Framework(provide the link), they corresponds to different fabric varying from 3x3 to 
             7x7. These two are then used to synthesis the fabric using Synopsys DC and Cadence GENUS.
