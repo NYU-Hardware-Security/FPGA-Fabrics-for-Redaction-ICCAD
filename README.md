@@ -8,6 +8,7 @@ https://github.com/lnis-uofu/OpenFPGA
 For further detail and results, one can refer to paper provided below:
 
 ***Exploring eFPGA-based Redaction for IP Protection***
+
 *Accepted at ***2021 IEEE/ACM International Conference On Computer Aided Design (ICCAD)***
 
 The directory contains the IPs that are mentioned in Table V and Table VI of the above mentioned paper.
