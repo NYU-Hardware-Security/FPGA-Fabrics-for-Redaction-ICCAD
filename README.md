@@ -1,11 +1,10 @@
 # Redaction
 
-The Redaction github repo contains the IPs that has been used for the purpose of study, to show the various aspect of redaction techniques.
+The Redaction github repo contains the IPs that were used for our study of various aspects of eFPGA-based redaction.
 
-The work is done using an Opensource tools to generate fabric (OpenFPGA). To have a better understanding of this tool, one can look into the documentation provided in the 
-https://github.com/lnis-uofu/OpenFPGA
+The work is done using an Open source tool to generate the fabric (OpenFPGA). To have a better understanding of this tool, one can look into the documentation provided in the [OpenFPGA Framework](https://github.com/lnis-uofu/OpenFPGA)
 
-For further detail and results, one can refer to paper provided below:
+For further detail and results, one can refer to our paper:
 
 ***Exploring eFPGA-based Redaction for IP Protection***
 ```
